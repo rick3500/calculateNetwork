@@ -1,0 +1,25 @@
+{
+  "name": "teachandlearn",
+  "version": "1.0.0",
+  "description": "IP Calculator",
+  "main": "calculateNetwork.js",
+  "scripts": {
+    "start": "node tryCalculator.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "IP",
+    "Address",
+    "Nodejs",
+    "Learn",
+    "Teach",
+    "Remember"
+  ],
+  "author": "Rick Simmons",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "ip": "^2.0.1",
+    "mocha": "^10.3.0"
+  }
+}
