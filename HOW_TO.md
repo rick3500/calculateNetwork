@@ -54,3 +54,12 @@ const result = calculateNetwork("192.168.1.1/21");
 ```javascript
 const result = calculateNetwork("192.168.1.1", "255.255.248.0");
 ```
+
+**JavaScript**
+
+```javascript
+you can run from the command line using:
+
+node run.js 192.168.1.1 /21
+
+```

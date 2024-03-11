@@ -3,8 +3,8 @@ const {calculateNetwork} = require('./calculateNetwork')
 
 // Example usage:
 
-var IPAddress = '192.168.1.1';
-var SubnetMask = '255.255.255.0';
+var IPAddress = '10.1.128.200';
+var SubnetMask = '255.255.248.0';
 
 console.log();
 console.log("GIVEN: calculateNetwork('IPAddress', 'SubnetMask')");

@@ -25,6 +25,7 @@ function calculateNetwork(ipAddress, subnet) {
     };
 }
 
+
 module.exports = {
     calculateNetwork
 }
